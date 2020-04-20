@@ -1,0 +1,12 @@
+{
+  "name": "purgecss-loader",
+  "version": "0.1.0",
+  "description": "Simply interface between PurgeCSS and Webpack by loader system - not official plugin",
+  "main": "index.js",
+  "repository": "https://github.com/Yggdragstyle/purgecss-loader.git",
+  "author": "Yggdragstyle <dans_la_com@yahoo.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "purgecss": "^2.1.2"
+  }
+}
